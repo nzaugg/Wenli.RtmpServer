@@ -50,8 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-*.suo
+.suo
 bin/
 obj/
 .vs/
 packages/
+.user
+*.user
